@@ -78,20 +78,22 @@ Each module in the course will follow a structured approach to ensure clarity an
 
 ### Topics Covered
 
-- **Redis** – Real-time caching & pub/sub for chat, matchmaking, and leaderboards
-- **PostgreSQL** – Persistent game data storage
-- **MongoDB** – Flexible NoSQL database (only if needed)
-- **WebSockets** – Real-time communication for multiplayer games
-- **gRPC** – High-performance RPC for game services
-- **Docker** – Containerizing game backend services
-- **Kubernetes** – Scaling multiplayer game servers
-- **OAuth2 & JWT** – Secure authentication for game users
-- **DDOS Protection** – Preventing attacks on game servers
-- **Trueskill** – Advanced ranking system for multiplayer games
-- **Leaderboards with Redis/PostgreSQL** – Designing scalable ranking systems
-- **Machine Learning for NPCs** – AI-driven game behavior
-- **Procedural Generation** – Creating maps, levels, and content dynamically
-- **Game Telemetry & Analytics** – Using BigQuery/Snowflake for player insights
+1. **Redis** – Real-time caching & pub/sub for chat, matchmaking, and leaderboards
+2. **WebSockets** – Real-time communication for multiplayer games
+3. **PostgreSQL** – Persistent game data storage
+4. **gRPC** – High-performance RPC for game services
+5. **Docker** – Containerizing game backend services
+6. **Kubernetes** – Scaling multiplayer game servers
+7. **Trueskill** – Advanced ranking system for multiplayer games
+8. **Leaderboards with Redis/PostgreSQL** – Designing scalable ranking systems
+9. **Procedural Generation** – Creating maps, levels, and content dynamically
+10. **Game Telemetry & Analytics** – Using BigQuery/Snowflake for player insights
+11. **Machine Learning for NPCs** – AI-driven game behavior
+12. **OAuth2 & JWT** – Secure authentication for game users
+13. **DDOS Protection** – Preventing attacks on game servers
+
+#### Maybe cover
+- MongoDB
 
 ## Implementation
 
